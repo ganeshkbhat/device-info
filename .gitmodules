@@ -1,0 +1,6 @@
+[submodule "js-device-info"]
+	path = js-device-info
+	url = https://github.com/ganeshkbhat/js-device-info.git
+[submodule "py-device-info"]
+	path = py-device-info
+	url = https://github.com/ganeshkbhat/py-device-info.git
